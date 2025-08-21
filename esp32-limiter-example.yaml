@@ -21,8 +21,8 @@ external_components:
     refresh: 0s
 
 wifi:
-  ssid: !secret wifi_ssid
-  password: !secret wifi_password
+  ssid: HomE189
+  password: ''
 
 ota:
   platform: esphome
